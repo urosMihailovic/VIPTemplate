@@ -1,10 +1,10 @@
 # VIP Template
-Template for Clean Swift's View-Interactor-Presenter Architecture. Generates all parts of a single VIP scene
+My version of a template for Clean Swift's View-Interactor-Presenter Architecture. Generates all parts of a single VIP scene. For more info about VIP itself check https://clean-swift.com/clean-swift-ios-architecture/.
 
 # Usage
 In order to easily use these templates first checkout this repo, we will need the `.xctemplate` folders.
 
-When Xcode launches, it looks for file templates within a specific location: `~/Library/Developer/Xcode/Templates/File Templates`. To get started, we need to create a directory within here that will house all of our file templates.
+When Xcode launches, it looks for file templates within a specific location: `~/Library/Developer/Xcode/Templates/File Templates`. To get started, we need to create a directory within here that will house all of our template files.
 
 To do this run this command in your terminal:
 `mkdir -p ~/Library/Developer/Xcode/Templates/File\ Templates/VIP`
